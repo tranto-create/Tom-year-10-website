@@ -1,1 +1,13 @@
-
+body {
+  background: rgba(234, 242, 255, 0.18);
+}
+p {
+  font-family: monospace;
+}
+h1 {
+  text-align: center;
+  border-style: solid;
+  border-color:rgb(155, 224, 163); 
+  background-color:azure
+}
+.welcome-tom's-website
