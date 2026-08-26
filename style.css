@@ -10,3 +10,33 @@ h1 {
   border-color:rgb(155, 224, 163); 
   background-color:azure
 }
+.google{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.apple{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.microsoft{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.amazon{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.Nvidia{
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  flex-wrap:wrap;
+}
