@@ -16,13 +16,13 @@ h1 {
   align-items: center;
   flex-wrap: wrap;
 }
-.apple{
+.Apple{
   display: flex;
   flex-direction:column;
   align-items: center;
   flex-wrap: wrap;
 }
-.microsoft{
+.Microsoft{
   display: flex;
   flex-direction:column;
   align-items: center;
@@ -36,6 +36,18 @@ h1 {
 }
 .Nvidia{
   display:flex;
+  flex-direction:column;
+  align-items:center;
+  flex-wrap:wrap;
+}
+.Alphabet{
+   display:flex;
+  flex-direction:column;
+  align-items:center;
+  flex-wrap:wrap;
+}
+.Saudi-Aramco{
+   display:flex;
   flex-direction:column;
   align-items:center;
   flex-wrap:wrap;
