@@ -70,6 +70,12 @@ h1 {
   align-items:center;
   flex-wrap:wrap;
 }
+.Meta{
+   display:flex;
+  flex-direction:column;
+  align-items:center;
+  flex-wrap:wrap;
+}
 
 .alphabet-image {
   width: 400px;
@@ -85,7 +91,7 @@ h1 {
   height: 300px;
 }
 .aramco-image {
-  width: 400px;
+  width: 600px;
   height: 300px;
 }
 .nvidia-image {
@@ -104,4 +110,18 @@ h1 {
    width: 400px;
   height: 300px;
 }
-
+.meta-image{
+    width: 400px;
+  height: 300px;
+}
+.images{
+  background-color: rgb(255, 128, 166);
+  border-style:dashed;
+  border-color:rgb(27, 233, 61); 
+}
+body{
+  background-color: rgb(196, 189, 193);
+}
+.brands{
+  background-color: rgb(196, 189, 193);
+}
