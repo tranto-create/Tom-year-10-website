@@ -125,3 +125,61 @@ body{
 .brands{
   background-color: rgb(196, 189, 193);
 }
+.arrow-image{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.arrow-image img{
+  width:250px;
+  height:250px;
+}
+.hello
+{
+  background-color: rgb(110, 230, 31);
+  border-style: double;
+}
+.google1{
+  background-color: rgb(216, 248, 195);
+  border-style: double;
+}
+.apple1{
+  background-color: rgb(255, 255, 255);
+  border-style: double;
+}
+.microsoft1{
+  background-color: rgb(228, 60, 60);
+  border-style: double;
+}
+.amazon1{
+  background-color: rgb(112, 108, 108);
+  border-style: double;
+}
+.tsmc1{
+  background-color: rgb(226, 22, 182);
+  border-style: double;
+}
+.spacex1{
+  background-color: rgb(235, 220, 11);
+  border-style: double;
+}
+.meta1{
+  background-color: rgb(100, 187, 238);
+  border-style: double;
+}
+.saudi-aramco1{
+  background-color: rgb(209, 212, 28);
+  border-style: double;
+}
+.broadcom1{
+  background-color: rgb(255, 153, 36);
+  border-style: double;
+}
+
+
+
+
+
+
